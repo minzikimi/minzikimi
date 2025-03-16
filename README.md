@@ -1,4 +1,4 @@
-### Hej, 안녕하세요! I am a full stack developer(mainly front-end now) student from South Korea living in Sweden.
+### Hej, 안녕하세요! I am a front-end developer in training from South Korea living in Sweden.
 
 
 <!--
