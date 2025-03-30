@@ -10,7 +10,7 @@
   <li>🤝 I’m looking to collaborate on <strong>open-source projects</strong> and <strong>innovative web applications</strong>.</li>
   <li>💬 Ask me about <strong>React</strong>, <strong>JavaScript</strong>, and <strong>web automation</strong>.</li>
   <li>📬 How to reach me: <a href="mailto:minji.kim@hyperisland.se">minji.kim@hyperisland.se</a></li>
-  <li>⚡ Fun fact: I have won 5 awards for water-rockets!</li>
+  <li>⚡ Fun fact: Five-time water rocket champ from school. Qualified to launch things into space... or at least the playground!</li>
 </ul>
 
 <hr>
