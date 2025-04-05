@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Minji%20Kim%20김민지&fontSize=35&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Minji%20Kim%20&fontSize=35&animation=fadeIn" alt="header" />
 </div>
 
 <h2 align="center">About Me :smile:</h2>
@@ -8,7 +8,6 @@
 <ul>
   <li>🌱 I’m currently planning to dive deeper into <strong>Backend Development</strong> and <strong>Cloud Technologies</strong>.</li>
   <li>🤝 I’m looking to collaborate on <strong>open-source projects</strong> and <strong>innovative web applications</strong>.</li>
-  <li>💬 Ask me about <strong>React</strong>, <strong>JavaScript</strong>, and <strong>web automation</strong>.</li>
   <li>📬 How to reach me: <a href="mailto:minji.kim@hyperisland.se">minji.kim@hyperisland.se</a></li>
   <li>⚡ Fun fact: Five-time water rocket champ from school. Qualified to launch things into space... or at least the playground!</li>
 </ul>
