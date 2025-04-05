@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Minji%20Kim%20&fontSize=35&animation=fadeIn" alt="header" />
-</div>
-
 <h2 align="center">About Me :smile:</h2>
 <p>Hi, I’m <strong>Minji</strong>! I’m a <strong>consistent</strong> and <strong>eager-to-learn</strong> developer with a focus on creating <strong>robust, and user-centric applications</strong>. I am currently based in Sweden!:) My journey in tech focuses primarily on front-end dev, and I'm expanding my skills to include back-end technologies and cloud computing to become a full-stack developer. I’m always excited to learn new technologies and collaborate on exciting projects.</p>
 
