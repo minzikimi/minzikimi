@@ -1,5 +1,5 @@
 <h2 align="center">About Me :smile:</h2>
-<p>Hi, I’m <strong>Minji</strong>! I’m a <strong>consistent</strong> and <strong>eager-to-learn</strong> developer with a focus on creating <strong>robust, and user-centric applications</strong>. I am currently based in Sweden!:) My journey in tech focuses primarily on front-end dev, and I'm expanding my skills to include back-end technologies and cloud computing to become a full-stack developer. I’m always excited to learn new technologies and collaborate on exciting projects.</p>
+<p>Hi, I’m <strong>Minji</strong>! I’m a developer student with a focus on creating <strong>robust, and user-centric applications</strong>. I am currently based in Sweden!:) My journey in tech focuses primarily on front-end dev, and I'm expanding my skills to include back-end technologies and cloud computing to become a full-stack developer. I’m always excited to learn new technologies and collaborate on exciting projects.</p>
 
 <ul>
   <li>🌱 I’m currently planning to dive deeper into <strong>Backend Development</strong> and <strong>Cloud Technologies</strong>.</li>
