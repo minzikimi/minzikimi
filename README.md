@@ -11,7 +11,7 @@
 <hr>
 
 <h2 align="center">:mailbox: Connect with Me</h2>
-<p>Feel free to reach out to me on <a href="https://www.linkedin.com/in/minji-kim-185a80315/">LinkedIn</a> and currently I am looking for <strong>LIA (internship)</strong> for <strong>Autumn 2025</strong>, so please check my <a href="https://minji.se">personal portfolio</a>.</p>
+<p>Feel free to reach out to me on <a href="https://www.linkedin.com/in/minji-kim-185a80315/">LinkedIn</a> 
 
 <hr>
 
